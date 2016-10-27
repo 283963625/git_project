@@ -2,4 +2,4 @@ Git is a version control system.
 Git is free softaware.
 
 Git is a distributor version control system.
-Git is free software.
+Git is free software distributor under the GPL.
