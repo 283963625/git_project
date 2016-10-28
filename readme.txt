@@ -7,4 +7,4 @@ Git is free software distributor under the GPL.
 Git add a new line.
 
 
-Git tracks changes.
+Git tracks changes of files.
